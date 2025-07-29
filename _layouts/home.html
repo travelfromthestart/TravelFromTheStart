@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<style>
+  @font-face {
+    font-family: 'BrittanySignature';
+    src: url('/assets/fonts/BrittanySignature.ttf') format('ttf');
+  }
+</style>
 
 <!-- Page Header -->
 {% if page.background %}
@@ -13,9 +19,9 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <h1 style="font-size:3em;">{{ site.title }}</h1>
+            <h1 style="font-size:4em;">{{ site.title }}</h1>
             {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
+            <span class="subheading" style="font-family: 'BrittanySignature'; ">{{ site.description }}</span>
             {% endif %}
           </div>
         </div>
