@@ -3,7 +3,7 @@ layout: post
 title: "Travel Journals for Kids"
 subtitle: "Creating a Memory Book for your Child"
 date: 2025-07-28
-background: '/img/posts/Portugal.JPG'
+background: '/img/posts/05.jpg'
 ---
 
 My favorite way to document memories for my kids (especially before they’re remembering the whole trip on their own) is to create a travel journal, just for them. This relatively simple task becomes an incredible keepsake your child can keep forever. 
