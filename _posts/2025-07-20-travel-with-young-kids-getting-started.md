@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Travel with Young Kids: Getting Started"
-subtitle: "Ways to Create a Solid Foundation"
+subtitle: "Ways to create a solid foundation"
 date: 2025-07-20
 background: '/img/posts/05.jpg'
 ---

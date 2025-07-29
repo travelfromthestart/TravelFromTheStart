@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Travel Journals for Kids"
-subtitle: "Creating a Memory Book for your Child"
+subtitle: "Creating a memory book for your child"
 date: 2025-07-28
 background: '/img/posts/05.jpg'
 ---

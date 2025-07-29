@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\"But they won't remember it anyway\""
+title: "\"But They Won't Remember It\""
 subtitle: "Reasons to absolutely go anyway"
 date: 2025-07-22
 background: '/img/posts/05.jpg'
