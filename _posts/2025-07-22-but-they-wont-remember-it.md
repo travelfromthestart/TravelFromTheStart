@@ -2,7 +2,7 @@
 layout: post
 title: "\"But they won't remember it anyway\""
 subtitle: "Reasons to absolutely go anyway"
-date: 2025-07-20
+date: 2025-07-22
 background: '/img/posts/Portugal.JPG'
 ---
 
