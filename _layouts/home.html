@@ -19,11 +19,23 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading" style="text-align: center;">
-            <h1 style="font-size: clamp(2rem, 5vw, 4rem); margin-bottom: 0.5em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+            <h1 style="
+              font-size: clamp(1.5rem, 6vw, 4rem);
+              margin-bottom: 0.5em;
+              line-height: 1.2;
+              word-break: break-word;
+            ">
               {{ site.title }}
             </h1>
+
             {% if site.description %}
-            <span class="subheading" style="font-family: 'BrittanySignature'; font-size: clamp(1.5rem, 4vw, 3rem); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+            <span class="subheading" style="
+              display: block;
+              font-family: 'BrittanySignature';
+              font-size: clamp(1rem, 5vw, 3rem);
+              line-height: 1.2;
+              word-break: break-word;
+            ">
               {{ site.description }}
             </span>
             {% endif %}
