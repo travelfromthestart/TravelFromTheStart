@@ -18,10 +18,14 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading" style="display: flex; flex-wrap: nowrap; gap: 0.5em; justify-content: center; align-items: baseline;">
-            <h1 style="font-size: clamp(2em, 5vw, 4em); margin: 0; white-space: nowrap;">{{ site.title }}</h1>
+          <div class="page-heading" style="text-align: center;">
+            <h1 style="font-size: clamp(2rem, 5vw, 4rem); margin-bottom: 0.5em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+              {{ site.title }}
+            </h1>
             {% if site.description %}
-            <span class="subheading" style="font-family: 'BrittanySignature'; font-size: clamp(1.5em, 4vw, 3em); white-space: nowrap;">{{ site.description }}</span>
+            <span class="subheading" style="font-family: 'BrittanySignature'; font-size: clamp(1.5rem, 4vw, 3rem); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+              {{ site.description }}
+            </span>
             {% endif %}
           </div>
         </div>
