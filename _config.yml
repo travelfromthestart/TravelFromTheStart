@@ -5,6 +5,8 @@ description:        A beginner's guide to travel with young kids
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   G-KZM420S4CF # out your google-analytics code
 
+pinterest_username: tester651365165816 # Add your pinterest username here to activate the pinterest feed
+
 # Build settings
 markdown:           kramdown
 paginate:           5
