@@ -23,4 +23,4 @@ I can't wait to make these memories with my people. I hope some of these tips ca
 **HAVE QUESTIONS OR ARTICLE SUGGESTIONS FOR ME?**<br>
 Contact me at [contacttravelfromthestart@gmail.com](contacttravelfromthestart@gmail.com). 
 
-![books](/img/about me page - article photo embedded (Large).jpg){: width="600" }
+![girls](/img/about me page - article photo embedded (Large).jpg){: width="400" }
