@@ -20,5 +20,7 @@ My favorite places I've traveled include Portugal, the Yucatan (honorable mentio
 Here, you'll find my tips and tricks for travel with a young family. I'll review specific trips and sites we've seen as well as give you my lessons learned along the way.
 I can't wait to make these memories with my people. I hope some of these tips can be helpful for your family too! Travel with young kids is hard… let's work together to find some ways to make it easier and even more rewarding. Buckle up… and happy travels!
 
-**HAVE QUESTIONS OR ARTICLE SUGGESTIONS FOR ME?**
-Contact me at contacttravelfromthestart@gmail.com. 
+**HAVE QUESTIONS OR ARTICLE SUGGESTIONS FOR ME?**<br>
+Contact me at [contacttravelfromthestart@gmail.com](contacttravelfromthestart@gmail.com). 
+
+![books](/img/about me page - article photo embedded (Large).jpg){: width="600" }
