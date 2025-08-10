@@ -47,3 +47,13 @@
         }
     }
 }
+
+.post-content a {
+  text-decoration: underline;
+  color: $primary; // or whatever matches your paragraph link color
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    color: darken($primary, 10%);
+  }
+}
