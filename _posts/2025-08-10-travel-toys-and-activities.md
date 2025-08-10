@@ -26,12 +26,12 @@ My goal is not to have you purchase more products, so let’s start with what ma
 ![backpacks](/img/posts/travel toys.jpg){: width="400" }
 
 Here’s what we’re looking for (ideally each toy fits not one but all of the following):
-- [ ] **Compact**
-- [ ] **Durable**
-- [ ] **Separate pieces?** They must either be attached, or the show must go on without them (leave your puzzles at home!). Dig in the seat just one time and you’ll be permanently sworn off of them.
-- [ ] **Quiet** (for others’ sake) and ideally not overstimulating (for your sake and your child’s)
-- [ ] **Entertaining**
-- [ ] **Minimal mess**
+- **Compact**
+- **Durable**
+- **Separate pieces?** They must either be attached, or the show must go on without them (leave your puzzles at home!). Dig in the seat just one time and you’ll be permanently sworn off of them.
+- **Quiet** (for others’ sake) and ideally not overstimulating (for your sake and your child’s)
+- **Entertaining**
+- **Minimal mess**
 
 Have something that fits the bill? If so, start there. I recommend taking them off your toy shelf at least a month before your trip (longer if your kids are more than a couple years old) so that the toys feel novel when the trip rolls around. Bonus: this is a nice way to get a head start on your packing anyway… nothing worse than something you can’t pack until the morning of the trip!
 
