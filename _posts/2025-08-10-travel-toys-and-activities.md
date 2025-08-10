@@ -38,29 +38,47 @@ Have something that fits the bill? If so, start there. I recommend taking them o
 **Babies**
 * [Suction cup toys](https://amzn.to/4fyZa8T)
 * [Fidget spinner](https://amzn.to/4m3wE1u)
-* [Pop it toys (fat brain popper)](https://amzn.to/4lkGY3U ](https://amzn.to/4mEg3RW)
+* Pop it toys (fat brain popper)
+    * [Example 1](https://amzn.to/4lkGY3U)
+    * [Example 2](https://amzn.to/4mEg3RW)
 * [Color wonder finger paints](https://amzn.to/4lEXI6t)
 * [Fidget cube](https://amzn.to/3JbkLrI)
 
 **Toddlers (1-3YO range)**
 * [Window clings](https://amzn.to/40Wtlkq)
 * [Stickers - reusable ](https://amzn.to/46LYQRT)
-* [Indestructible books](https://amzn.to/3Hquw4M ](https://amzn.to/45bPWvO)
+* Indestructible books
+    * [Example 1](https://amzn.to/3Hquw4M)
+    * [Example 2](https://amzn.to/45bPWvO)
 * [Mini magnatiles](https://amzn.to/45bPWvO)
-* [Water WOW books ](https://amzn.to/4frmGEy ](https://amzn.to/4mAfp7W)
-* [Writing tablet - I recommend an attached stylus for obvious reasons ;)](https://amzn.to/46K5PL4)
+* Water WOW books
+    * [Example 1](https://amzn.to/4frmGEy)
+    * [Example 2](https://amzn.to/4mAfp7W)
+* [Writing tablet](https://amzn.to/46K5PL4) - I recommend an attached stylus for obvious reasons ;)
 * [Magnetic blocks](https://amzn.to/4mbZCwk)
-* [Magnet dress me toys](https://amzn.to/45u5f1S ](https://amzn.to/4fFM0H9)
+* Magnet dress me toys
+    * [Example 1](https://amzn.to/45u5f1S)
+    * [Example 2](https://amzn.to/4fFM0H9)
 * [Busy board briefcase](https://amzn.to/45xwNTT)
-* [Color wonder paper and pens (with carrying case)](https://amzn.to/46Lqoqv ](https://amzn.to/3UnG0ZY)
+* Color wonder paper and pens (with carrying case)
+    * [Example 1](https://amzn.to/46Lqoqv)
+    * [Example 2](https://amzn.to/3UnG0ZY)
 * [Silicone noodle toys](https://amzn.to/4lwerJ6)
 
 **Young kids (4YO+ range)**
 * [Amazon light switch board](https://amzn.to/4fwjwj8)
-* [Sticker-by-number books](https://amzn.to/4oMiwf5 ](https://amzn.to/45cJW62)
+* Sticker-by-number books
+    * [Example 1](https://amzn.to/4oMiwf5)
+    * [Example 2](https://amzn.to/45cJW62)
 * [Preschool activity book](https://amzn.to/4fytIaX)
-* [Writing notebook and crayons](https://amzn.to/45tZTDF ](https://amzn.to/46Q0Nwx ](https://amzn.to/4llZ4Th)
-* [Search-and-find](https://amzn.to/4md2zNd](https://amzn.to/3Jt2C8Q ](https://amzn.to/3UR5EGy)
+* Writing notebook and crayons
+    * [Example 1](https://amzn.to/45tZTDF)
+    * [Example 2](https://amzn.to/46Q0Nwx)
+    * [Example 3](https://amzn.to/4llZ4Th)
+* Search-and-find
+    * [Example 1](https://amzn.to/4md2zNd)
+    * [Example 2](https://amzn.to/3Jt2C8Q)
+    * [Example 3](https://amzn.to/3UR5EGy)
 * [Tangram game](https://www.target.com/p/magnetic-foam-tanagrams-gigglescape-8482/-/A-89973273)
 * [Color wonder activity book](https://amzn.to/3HgdO8n)
 * [Storytelling dominoes](https://amzn.to/4lpsdNB)
