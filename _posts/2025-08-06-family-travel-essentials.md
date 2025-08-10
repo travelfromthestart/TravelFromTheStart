@@ -3,7 +3,7 @@ layout: post
 title: "Family Travel Essentials"
 subtitle: "What's worth bringing?"
 date: 2025-08-06
-background: '/img/posts/travel toys.jpg'
+background: '/img/posts/family travel essentials banner.jpg'
 ---
 
 This article includes links via the Amazon Associates program. I earn from qualifying purchases. All opinions and recommendations are my own.
