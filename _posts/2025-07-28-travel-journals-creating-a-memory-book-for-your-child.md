@@ -6,7 +6,7 @@ date: 2025-07-28
 background: '/img/posts/travel journals banner.jpg'
 ---
 
-*This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*{: style="font-size:0.9em;" }
+*This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*{: style="font-size:0.8em;" }
 
 My favorite way to document memories for my kids (especially before they’re remembering the whole trip on their own) is to create a travel journal, just for them. This relatively simple task becomes an incredible keepsake your child can keep forever. 
 
