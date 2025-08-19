@@ -6,7 +6,7 @@ date: 2025-08-06
 background: '/img/posts/family travel essentials banner.jpg'
 ---
 
-This article includes links via the Amazon Associates program. I earn from qualifying purchases. All opinions and recommendations are my own.
+*This article includes links via the Amazon Associates program. I earn from qualifying purchases. All opinions and recommendations are my own.*
 
 So far, in traveling with our two young kids, we’ve done road trips and flights, weekend getaways and longer trips. Sometimes we’re going on a trip to meet up with friends, visit family, or see a place we’ve never been. These variables all change what you will need and what makes the most sense to pack, so each of those pieces need to be factored into your packing list. However, this post is meant to give you some packing ideas, regardless of which of these types of trips you’re taking. This is not a comprehensive packing list (separate post on this topic coming soon… we created a reusable version!), but meant to give you creative ideas about how to make travel with babies and toddlers easier.
 

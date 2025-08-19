@@ -6,7 +6,7 @@ date: 2025-08-17
 background: '/img/posts/first flight - banner.jpg'
 ---
 
-<p style="font-size: 0.9em;">*This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*</p>
+*This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*
 
 When first traveling on an airplane with our baby and toddler, I tried several things to introduce the concept, make it fun, and have us all as prepared as possible. Depending on the child’s age at the time, challenging aspects may include staying seated with little wiggle room, limited opportunities to get up and use the bathroom (think take-off and landing/seatbelt sign), seat placement with caregivers or siblings, the loud sounds in the plane, the foreign concept of flying through the air, or just trying to sleep (or failing to) on the airplane itself.
 
