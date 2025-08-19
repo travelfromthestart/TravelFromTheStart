@@ -6,7 +6,7 @@ date: 2025-08-10
 background: '/img/posts/travel toys banner.jpg'
 ---
 
-*This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*
+<p style="font-size: 0.9em;">*This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*</p>
 
 Picture this:
 You’re on a flight with your busy-body toddler (or [gasp] TWO!). A typical day at home involves movement, activity, endless snacks, and a just-right nap set-up to curate a smooth day. Now you’re aiming to do that in a flying metal tube with too-little legroom and a seatbelt sign conveniently dinging on every time you hear “Mommy, I have to go potty!”
