@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Family Travel Essentials"
-subtitle: "What's worth bringing?"
+subtitle: "what's worth bringing?"
 date: 2025-08-06
 background: '/img/posts/family travel essentials banner.jpg'
 ---

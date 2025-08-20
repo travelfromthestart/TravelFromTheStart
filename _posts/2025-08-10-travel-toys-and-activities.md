@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Travel Toys and Activities"
-subtitle: "The Master List"
+subtitle: "the master list"
 date: 2025-08-10
 background: '/img/posts/travel toys banner.jpg'
 ---

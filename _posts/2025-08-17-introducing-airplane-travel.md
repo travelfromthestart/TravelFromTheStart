@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing Air Travel"
-subtitle: "The first flight!"
+subtitle: "the first flight!"
 date: 2025-08-17
 background: '/img/posts/first flight - banner.jpg'
 ---

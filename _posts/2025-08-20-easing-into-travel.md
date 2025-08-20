@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easing into Travel"
-subtitle: "The introduction"
+subtitle: "the introduction"
 date: 2025-08-20
 background: '/img/posts/easing banner.jpg'
 ---
