@@ -58,7 +58,7 @@ For this cruise, we actually went over Halloween, so we got to attend Halloween 
     * [Stitch](https://amzn.to/3L6Prfg)
     * [Ariel](https://amzn.to/4bdbMSN)
     * [Pirates](https://amzn.to/4jkpRA6)
-* Some kids brought around cute Pixie Dust for kids they encountered on the cruise, which is an adorable idea! My girls got some really cute trinkets… their favorite was this one! https://amzn.to/3Lm0G3u.
+* Some kids brought around cute Pixie Dust for kids they encountered on the cruise, which is an adorable idea! My girls got some really cute trinkets… their favorite was [this one!](https://amzn.to/3Lm0G3u).
 
 ### Entertainment and Shows
 You’ll hear that you never run out of activities on the ship. This is true. Looking through the activities listed in the app will clearly show you that *you could never make it to every dance party, craft activity, kids club open house, and character meet-up…* even if you made it your full-time job while on board. The activities are really fun and generally really well executed. (We went to one craft activity that was a bit of a bust and one where the line lasted the entire length of the activity but these were the exception and the crew seemed to recognize the problem.)
