@@ -3,7 +3,7 @@ layout: post
 title: "Baby and Toddler Carriers"
 subtitle: "What we like for travel and why"
 date: 2026-02-10
-background: '/img/posts/baby_carrier_banner.jpg'
+background: '/img/posts/baby_carrier_banner.png'
 ---
 
 *This article contains Amazon Affiliate links, which earn a small commission. All opinions are my own.*{: style="font-size:0.85em;" }
