@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greece with Kids"
-subtitle: "pros and cons"
+subtitle: "Pros and Cons"
 date: 2026-09-12
 background: '/img/posts/greece flag.JPEG'
 ---
